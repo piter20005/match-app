@@ -1,0 +1,19 @@
+{
+  "name": "match-app",
+  "version": "1.0.0",
+  "description": "An app that shows how well matched are you with your partner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piter20005/match-app.git"
+  },
+  "author": "Piotr Stepien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piter20005/match-app/issues"
+  },
+  "homepage": "https://github.com/piter20005/match-app#readme"
+}
