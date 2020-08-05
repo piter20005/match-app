@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.names {
+    display: flex;
+    flex-direction: row;
+}
+
+.name-input {
+    margin: 2rem;
+}
+
+.result {
+    display: flex;
+    flex-direction: column;
+}
+
+.result-top {
+    display: flex;
+    flex-direction: row;
+}
+
+.result-name {
+    margin: 2rem;
+}
+
+.match {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.score {
+    text-align: center;
+}
